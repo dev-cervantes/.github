@@ -10,7 +10,6 @@
 > `Cole aqui o link do PR`
 
 ### Checklist
-> - [ ] Histórico de versões preenchido
 > - [ ] Aprovado
 
 ### Imagens
