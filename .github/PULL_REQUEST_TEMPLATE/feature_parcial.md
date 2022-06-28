@@ -1,9 +1,9 @@
 ## :seedling: Feature parcial
 
+### Código externo
+> SM ####
+
 ### Descrição
 > Descrição do item...
-
-### Feature principal
-> `Cole aqui o link do PR`
 
 ### Imagens
