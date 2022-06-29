@@ -7,7 +7,7 @@
 > Descreva a correção...
 
 ### PR principal
-> `Cole aqui o link do PR`
+> Cole aqui o link do PR
 
 ### Checklist
 > - [ ] Aprovado
