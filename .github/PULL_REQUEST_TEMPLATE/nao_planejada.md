@@ -1,7 +1,7 @@
 ## :volcano: Não planejada
 
 ### Código externo
-> OS ####
+> OS #### <br>
 > SM ####
 
 ### Problema
