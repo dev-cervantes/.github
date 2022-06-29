@@ -1,8 +1,8 @@
 ## :package: Package
 
 ### Projeto principal
-> Nome do projeto (Se é do Navi/Link-Garçom/Catálogo online)
-> `cole aqui o link do PR`
+> Nome do projeto (Se é do Navi/Link-Garçom/Catálogo online) <br>
+> cole aqui o link do PR
 
 ### Descrição
 > Descrição do item...
