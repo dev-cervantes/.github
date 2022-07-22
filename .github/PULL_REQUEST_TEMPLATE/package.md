@@ -10,3 +10,4 @@
 ### Checklist
 > - [ ] Número da versão do pacote atualizado
 > - [ ] Atualizado número da versão do pacote no projeto
+> - [ ] Documentação atualizada

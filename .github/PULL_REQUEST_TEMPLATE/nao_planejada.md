@@ -18,5 +18,6 @@
 > - [ ] OS preenchida
 > - [ ] Importação Navi - Link
 > - [ ] Aprovado
+> - [ ] Documentação atualizada
 
 ### Imagens
