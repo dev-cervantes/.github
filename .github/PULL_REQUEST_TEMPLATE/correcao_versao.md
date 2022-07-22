@@ -11,5 +11,6 @@
 
 ### Checklist
 > - [ ] Aprovado
+> - [ ] Documentação atualizada
 
 ### Imagens
