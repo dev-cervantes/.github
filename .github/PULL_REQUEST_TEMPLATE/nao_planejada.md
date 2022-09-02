@@ -17,7 +17,9 @@
 > - [ ] Histórico de versões preenchido
 > - [ ] OS preenchida
 > - [ ] Importação Navi - Link
+> - [ ] Banco de dados (Navi) atualizado
 > - [ ] Aprovado
 > - [ ] Documentação atualizada
 
 ### Imagens
+> 
