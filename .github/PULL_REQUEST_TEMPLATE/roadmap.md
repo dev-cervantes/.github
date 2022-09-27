@@ -23,7 +23,6 @@
 > - [ ] Banco de dados (Navi) atualizado
 > - [ ] Aprovado
 > - [ ] Status Roadmap atualizado
-> - [ ] Status do planejamento semanal atualizado
 > - [ ] Documentação atualizada
 
 ### Imagens
