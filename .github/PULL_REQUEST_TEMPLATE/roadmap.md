@@ -24,6 +24,7 @@
 > - [ ] Aprovado
 > - [ ] Status Roadmap atualizado
 > - [ ] Documentação atualizada
+> - [ ] Testes unitários
 
 ### Imagens
 > 
