@@ -20,6 +20,7 @@
 > - [ ] Banco de dados (Navi) atualizado
 > - [ ] Aprovado
 > - [ ] Documentação atualizada
+> - [ ] Testes unitários
 
 ### Imagens
 > 
