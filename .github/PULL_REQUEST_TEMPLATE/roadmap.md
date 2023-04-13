@@ -1,30 +1,17 @@
-# :dart: Roadmap
+## Roadmap :dart:
 
 ### Código externo
 > SM ####
 
-### Motivação
-> Descreva a motivação...
-
 ### Descrição
-> Descrição do item...
-
-### Recursos desenvolvidos
-> * Feature 1
->   - Detalhe Feature 1
-> * Feature 2
+> Copiar descrição da história no Eight Project...
 
 ### Observação para testes
-> Descreva a observação se houver...
+> 
 
 ### Checklist
 > - [ ] Histórico de versões preenchido
-> - [ ] Importação Navi - Link
-> - [ ] Banco de dados (Navi) atualizado
-> - [ ] Aprovado
-> - [ ] Status Roadmap atualizado
-> - [ ] Documentação atualizada
-> - [ ] Testes unitários
+> - [ ] Teste unitário (Analise e implementação se viável)
+> - [ ] Aprovado pelo PO (Product Owner)
 
 ### Imagens
-> 
