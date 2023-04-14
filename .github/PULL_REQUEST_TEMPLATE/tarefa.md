@@ -5,7 +5,7 @@
 > OS ####
 
 ### Descrição
-> Copiar descrição da história no Eight Project...
+> ℹ️ Para histórias planejadas, copie a descrição da história no Eight Project
 
 ### Observação para testes
 > 
