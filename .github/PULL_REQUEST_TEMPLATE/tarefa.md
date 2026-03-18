@@ -1,4 +1,4 @@
-## Tarefa 🐔
+## 🐔 Tarefa
 
 ### Código externo
 Informe aqui o código da história. Exemplos: SM 9999, OS 9999, HI 9999
@@ -8,6 +8,10 @@ Escreva aqui uma boa descrição.
 
 ### Observação para testes
 Explique o que deve ser testado.
+
+---
+
+## 🔍 Detalhes técnicos
 
 ### Teste unitário (marque apenas uma)
 - [ ] Criado ou atualizado
@@ -21,22 +25,39 @@ Explique brevemente se necessário.
 
 > Dica: comparar SQL antigo e novo usando um comparador online.
 
+#### Importação Link ⇄ Navi (marque apenas uma)
+- [ ] Verificado
+- [ ] Não se aplica
+
+---
+
+## 🖼️ Evidências
+
 ### Imagens
 Cole aqui as telas alteradas, se houver.
 
 ---
 
-## Checklists
+## 👀 Aprovação
 
-### Review Checklist
-
-#### Aprovação (marque apenas uma)
 - [ ] Aprovado pelo [@vitor-cervantes](https://github.com/vitor-cervantes)
-- [ ] Não precisa de aprovação
+- [ ] Não precisa de aprovação  
 
 ---
 
-### Merge Checklist
+## 🤝 Alinhamentos
+
+### Suporte (marque apenas uma)
+- [ ] Demonstrado / alinhado
+- [ ] Não necessário
+
+### Marketing (marque apenas uma)
+- [ ] Materiais criados / alinhados
+- [ ] Não necessário
+
+---
+
+## 🚀 Merge checklist
 
 > [!IMPORTANT]
 > Fazer apenas após aprovação do PR!
