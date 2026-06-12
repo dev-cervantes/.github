@@ -38,8 +38,12 @@ Cole aqui as telas alteradas, se houver.
 
 ---
 
-## 👀 Aprovação
+## 👀 Revisão
 
+### Documentação
+- [ ] Histórico de versões preenchido
+
+### Aprovação
 - [ ] Aprovado pelo [@vitor-cervantes](https://github.com/vitor-cervantes)
 - [ ] Não precisa de aprovação  
 
@@ -54,12 +58,3 @@ Cole aqui as telas alteradas, se houver.
 ### Marketing (marque apenas uma)
 - [ ] Materiais criados / alinhados
 - [ ] Não necessário
-
----
-
-## 🚀 Merge checklist
-
-> [!IMPORTANT]
-> Fazer apenas após aprovação do PR!
-
-- [ ] Histórico de versões preenchido
