@@ -17,8 +17,6 @@ Explique o que deve ser testado.
 - [ ] Criado ou atualizado
 - [ ] Não foi necessário
 
-Explique brevemente se necessário.
-
 #### Importação Link ⇄ Navi (marque apenas uma)
 - [ ] Verificado
 - [ ] Não se aplica
