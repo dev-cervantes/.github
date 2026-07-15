@@ -19,12 +19,6 @@ Explique o que deve ser testado.
 
 Explique brevemente se necessário.
 
-### Alterações em SQL (marque apenas uma)
-- [ ] Não houve alteração em SQL
-- [ ] SQL alterado e comparado com a versão anterior
-
-> Dica: comparar SQL antigo e novo usando um comparador online.
-
 #### Importação Link ⇄ Navi (marque apenas uma)
 - [ ] Verificado
 - [ ] Não se aplica
@@ -45,16 +39,4 @@ Cole aqui as telas alteradas, se houver.
 
 ### Aprovação
 - [ ] Aprovado pelo [@vitor-cervantes](https://github.com/vitor-cervantes)
-- [ ] Não precisa de aprovação  
-
----
-
-## 🤝 Alinhamentos
-
-### Suporte (marque apenas uma)
-- [ ] Demonstrado / alinhado
-- [ ] Não necessário
-
-### Marketing (marque apenas uma)
-- [ ] Materiais criados / alinhados
-- [ ] Não necessário
+- [ ] Não precisa de aprovação
