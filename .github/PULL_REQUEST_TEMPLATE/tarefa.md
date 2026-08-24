@@ -11,7 +11,7 @@ Explique o que deve ser testado.
 
 ---
 
-## 🔍 Detalhes técnicos
+## ✅ Checklist
 
 ### Teste unitário (marque apenas uma)
 - [ ] Criado ou atualizado
@@ -20,10 +20,6 @@ Explique o que deve ser testado.
 #### Importação Link ⇄ Navi (marque apenas uma)
 - [ ] Verificado
 - [ ] Não se aplica
-
----
-
-## 👀 Revisão
 
 ### Documentação
 - [ ] Histórico de versões preenchido
