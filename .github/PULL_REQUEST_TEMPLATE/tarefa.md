@@ -13,6 +13,9 @@ Explique o que deve ser testado.
 
 ## ✅ Checklist
 
+> [!WARNING]
+> O PR somente deve ser aprovado após todos os itens do checklist estarem concluídos.
+
 ### Teste unitário (marque apenas uma)
 - [ ] Criado ou atualizado
 - [ ] Não foi necessário
