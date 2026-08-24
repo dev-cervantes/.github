@@ -23,13 +23,6 @@ Explique o que deve ser testado.
 
 ---
 
-## 🖼️ Evidências
-
-### Imagens
-Cole aqui as telas alteradas, se houver.
-
----
-
 ## 👀 Revisão
 
 ### Documentação
@@ -38,3 +31,10 @@ Cole aqui as telas alteradas, se houver.
 ### Aprovação
 - [ ] Aprovado pelo [@vitor-cervantes](https://github.com/vitor-cervantes)
 - [ ] Não precisa de aprovação
+
+---
+
+## 🖼️ Evidências
+
+### Imagens
+Cole aqui as telas alteradas, se houver.
