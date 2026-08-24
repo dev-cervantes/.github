@@ -20,14 +20,14 @@ Explique o que deve ser testado.
 - [ ] Criado ou atualizado
 - [ ] Não foi necessário
 
-#### Importação Link ⇄ Navi (marque apenas uma)
+### Importação Link ⇄ Navi (marque apenas uma)
 - [ ] Verificado
 - [ ] Não se aplica
 
 ### Documentação
 - [ ] Histórico de versões preenchido
 
-### Aprovação
+### Aprovação (marque apenas uma)
 - [ ] Aprovado pelo [@vitor-cervantes](https://github.com/vitor-cervantes)
 - [ ] Não precisa de aprovação
 
