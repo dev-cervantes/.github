@@ -1,3 +1,5 @@
+<!-- checklist:review_required -->
+
 ## 🐔 Tarefa
 
 ### Código externo
@@ -16,21 +18,26 @@ Explique o que deve ser testado.
 > [!WARNING]
 > O PR somente deve ser aprovado após todos os itens do checklist estarem concluídos.
 
+<!-- checklist:type=exactly_one -->
 ### Teste unitário (marque apenas uma)
 - [ ] Criado ou atualizado
 - [ ] Não foi necessário
 
+<!-- checklist:type=exactly_one -->
 ### Importação Link ⇄ Navi (marque apenas uma)
 - [ ] Verificado
 - [ ] Não se aplica
 
+<!-- checklist:type=all -->
 ### Documentação
 - [ ] Histórico de versões preenchido
 
+<!-- checklist:type=exactly_one -->
 ### Aprovação (marque apenas uma)
 - [ ] Aprovado pelo [@vitor-cervantes](https://github.com/vitor-cervantes)
 - [ ] Não precisa de aprovação
 
+<!-- checklist:type=exactly_one -->
 ---
 
 ## 🖼️ Evidências
