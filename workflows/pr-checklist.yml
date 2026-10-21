@@ -1,13 +1,9 @@
 name: PR Checklist
 
-# Dispara este workflow quando um pull request for criado, editado ou reaberto.
+# Dispara quando outro workflow de um repositorio especifico chamar.
 on:
-  pull_request:
-    types:
-      - opened
-      - edited
-      - reopened
-
+  workflow_call:
+  
 # Permissões mínimas que o workflow precisa para funcionar.
 # "contents: read" permite ler o conteúdo do repositório.
 # "pull-requests: write" permite comentar ou atualizar o PR quando necessário.
