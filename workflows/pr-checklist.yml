@@ -1,0 +1,39 @@
+name: PR Checklist
+
+# Dispara este workflow quando um pull request for criado, editado ou reaberto.
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - reopened
+
+# Permissões mínimas que o workflow precisa para funcionar.
+# "contents: read" permite ler o conteúdo do repositório.
+# "pull-requests: write" permite comentar ou atualizar o PR quando necessário.
+permissions:
+  contents: read
+  pull-requests: write
+
+# Garante que, para o mesmo PR, só exista uma execução do workflow por vez.
+# Se uma nova execução começar, a anterior é cancelada.
+concurrency:
+  group: pr-checklist-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  checklist:
+    name: PR Checklist
+    if: |
+      contains(github.event.pull_request.title, 'checklist:review_required') ||
+      contains(github.event.pull_request.body, 'checklist:review_required')
+    runs-on: ubuntu-slim
+
+    steps:
+      - name: Validate checklist
+        # Ação externa que valida o checklist do PR.
+        uses: dev-cervantes/pr_checklist_validator@v1.1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # Chave de API para o serviço externo de histórico, usada pela validação.
+          historico-api-key: ${{ secrets.HISTORICO_API_KEY }}
