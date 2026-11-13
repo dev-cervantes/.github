@@ -3,6 +3,9 @@ name: PR Checklist
 # Dispara quando outro workflow de um repositorio especifico chamar.
 on:
   workflow_call:
+    secrets:
+      HISTORICO_API_KEY:
+        required: true
   
 # Permissões mínimas que o workflow precisa para funcionar.
 # "contents: read" permite ler o conteúdo do repositório.
